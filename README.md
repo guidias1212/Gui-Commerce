@@ -8,93 +8,96 @@
 
 https://gui-commerce.herokuapp.com/
 
+======
+
+
 ## Register
 
-To register, on the **Register** button on the home page:
+**1)** To register, on the **Register** button on the home page:
 
 ![alt text](https://github.com/guidias1212/Gui-Commerce/blob/master/images/register1.png)
 
------------------------------------
+======
 
 
-Then write your name, username and password on the respective fields and click on **Create** butotn:
+**2)** Then write your name, username and password on the respective fields and click on **Create** butotn:
 
 ![alt text](https://github.com/guidias1212/Gui-Commerce/blob/master/images/register2.png))
 
 *OBS: None of the fields can be empty.
 
------------------------------------
+======
 
 
-If everything went fine, you should see the **Success** page. Click on **Home** button to proceed to login:
+**3)** If everything went fine, you should see the **Success** page. Click on **Home** button to proceed to login:
 
 ![alt text](https://github.com/guidias1212/Gui-Commerce/blob/master/images/success.png))
 
------------------------------------
+======
 
 
 ## Login
 
-To login, click on the **login** button on the home page:
+**1)** To login, click on the **login** button on the home page:
 
 ![alt text](https://github.com/guidias1212/Gui-Commerce/blob/master/images/login1.png))
 
------------------------------------
+======
 
 
-Insert your username and password and click on **Login** button:
+**2)** Insert your username and password and click on **Login** button:
 
 ![alt text](https://github.com/guidias1212/Gui-Commerce/blob/master/images/login2.png))
 
------------------------------------
+======
 
 
 ## Create a product
 
-To create and publish a product, set your product name, price and the link to it and hit the button **Add New Product**:
+**1)** To create and publish a product, set your product name, price and the link to it and hit the button **Add New Product**:
 
 ![alt text](https://github.com/guidias1212/Gui-Commerce/blob/master/images/create_product1.png))
 
------------------------------------
+======
 
 
-If everything went fine, you should see the **Success** page. Click on **Home** button to proceed to home page and see your product:
+**2)** If everything went fine, you should see the **Success** page. Click on **Home** button to proceed to home page and see your product:
 
 ![alt text](https://github.com/guidias1212/Gui-Commerce/blob/master/images/create_product2.png))
 
------------------------------------
+======
 
 
 ## Edit your product
 
-To edit your product, click on the **Login** button and then on the **Edit** button on **Your published products** table:
+**1)** To edit your product, click on the **Login** button and then on the **Edit** button on **Your published products** table:
 
 ![alt text](https://github.com/guidias1212/Gui-Commerce/blob/master/images/edit_product1.png))
 
------------------------------------
+======
 
 
-Fill the fields with the updated information of your product and click on **Update Product** button:
+**2)** Fill the fields with the updated information of your product and click on **Update Product** button:
 
 ![alt text](https://github.com/guidias1212/Gui-Commerce/blob/master/images/edit_product2.png))
 
------------------------------------
+======
 
 
-If everything went fine, you should see the **Settings** page with your recently updated product:
+**3)** If everything went fine, you should see the **Settings** page with your recently updated product:
 
 ![alt text](https://github.com/guidias1212/Gui-Commerce/blob/master/images/edit_product3.png))
 
------------------------------------
+======
 
 
 ## Delete user
 
-If you want to delete your user and every associoated products with it, under your **Settings** page, scroll down and click the button **DELETE USER**:
+**1)** If you want to delete your user and every associoated products with it, under your **Settings** page, scroll down and click the button **DELETE USER**:
 
 ![alt text](https://github.com/guidias1212/Gui-Commerce/blob/master/images/delete.png))
 
------------------------------------
+======
 
 
 ## For developers
