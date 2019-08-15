@@ -8,7 +8,7 @@
 
 https://gui-commerce.herokuapp.com/
 
-======
+---
 
 
 ## Register
@@ -17,7 +17,7 @@ https://gui-commerce.herokuapp.com/
 
 ![alt text](https://github.com/guidias1212/Gui-Commerce/blob/master/images/register1.png)
 
-======
+---
 
 
 **2)** Then write your name, username and password on the respective fields and click on **Create** butotn:
@@ -26,14 +26,14 @@ https://gui-commerce.herokuapp.com/
 
 *OBS: None of the fields can be empty.
 
-======
+---
 
 
 **3)** If everything went fine, you should see the **Success** page. Click on **Home** button to proceed to login:
 
 ![alt text](https://github.com/guidias1212/Gui-Commerce/blob/master/images/success.png))
 
-======
+---
 
 
 ## Login
@@ -42,14 +42,14 @@ https://gui-commerce.herokuapp.com/
 
 ![alt text](https://github.com/guidias1212/Gui-Commerce/blob/master/images/login1.png))
 
-======
+---
 
 
 **2)** Insert your username and password and click on **Login** button:
 
 ![alt text](https://github.com/guidias1212/Gui-Commerce/blob/master/images/login2.png))
 
-======
+---
 
 
 ## Create a product
@@ -58,14 +58,14 @@ https://gui-commerce.herokuapp.com/
 
 ![alt text](https://github.com/guidias1212/Gui-Commerce/blob/master/images/create_product1.png))
 
-======
+---
 
 
 **2)** If everything went fine, you should see the **Success** page. Click on **Home** button to proceed to home page and see your product:
 
 ![alt text](https://github.com/guidias1212/Gui-Commerce/blob/master/images/create_product2.png))
 
-======
+---
 
 
 ## Edit your product
@@ -74,21 +74,21 @@ https://gui-commerce.herokuapp.com/
 
 ![alt text](https://github.com/guidias1212/Gui-Commerce/blob/master/images/edit_product1.png))
 
-======
+---
 
 
 **2)** Fill the fields with the updated information of your product and click on **Update Product** button:
 
 ![alt text](https://github.com/guidias1212/Gui-Commerce/blob/master/images/edit_product2.png))
 
-======
+---
 
 
 **3)** If everything went fine, you should see the **Settings** page with your recently updated product:
 
 ![alt text](https://github.com/guidias1212/Gui-Commerce/blob/master/images/edit_product3.png))
 
-======
+---
 
 
 ## Delete user
@@ -97,7 +97,7 @@ https://gui-commerce.herokuapp.com/
 
 ![alt text](https://github.com/guidias1212/Gui-Commerce/blob/master/images/delete.png))
 
-======
+---
 
 
 ## For developers
