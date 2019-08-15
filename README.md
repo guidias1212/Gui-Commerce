@@ -3,6 +3,8 @@
 ![alt text](https://github.com/guidias1212/Gui-Commerce/blob/master/images/logo.jpg)
 
   My very first web application. It is hosted by Heroku and uses the Postgres database (Similar to PostgreSQL). It covers user registration, login, CRUD and automated tests. Anyone can register and see a public page. Users can create, read, update and delete products.
+  
+  This application is a practical step of learning how to be a FullStack web developer. It does not focus on Frontend or DevOPS, only in backend developing for now.
 
 ## Check it out:
 
