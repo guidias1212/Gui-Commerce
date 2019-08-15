@@ -1,0 +1,10 @@
+EditProductController.class
+DeleteUserController.class
+LogoutController.class
+HomeController.class
+SettingsController.class
+AddProductController.class
+RegisterController.class
+DeleteProductController.class
+LoginController.class
+DBConnection.class
